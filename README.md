@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neal</h1>
 <h3 align="center">A full-stack web developer and photographer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **#100Devs, Project Odin**
+- 💬 Ask me about **#100Devs, Freelance web development**
 
 - 📫 How to reach me **neal.grindstaff@gmail.com**
 
