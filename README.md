@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [money-counter](https://github.com/Nealium104/counter)
 
-- 🌱 I’m currently learning **SaSS**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **#100Devs, React, Tailwind**
 
