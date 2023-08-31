@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nealium104" alt="nealium104" /></a> </p>
 
-- 🔭 I’m currently working on [money-counter](https://github.com/Nealium104/counter)
+- 🔭 I’m currently working on [gig-econ](https://github.com/Nealium104/counter)
 
 - 🌱 I’m currently learning **React Native**
 
