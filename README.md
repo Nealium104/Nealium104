@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nealium104&show_icons=true&locale=en&layout=compact" alt="nealium104" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nealium104&" alt="nealium104" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nealium104&show_icons=true&locale=en" alt="nealium104" /></p>
