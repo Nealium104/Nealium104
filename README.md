@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **neal.grindstaff@gmail.com**
 
-- 📄 Know about my experiences through my [resume](https://nealpowers-my.sharepoint.com/:b:/g/personal/nealpowers_neal-powers_com/EfhtygT0w7hJrG-rIEzPTrUBx-4hO8KP7zhlKCywWOkzAQ?e=dEEPos)
+- 📄 Learn about my experiences through my [resume](https://nealpowers-my.sharepoint.com/:b:/g/personal/nealpowers_neal-powers_com/EfhtygT0w7hJrG-rIEzPTrUBx-4hO8KP7zhlKCywWOkzAQ?e=dEEPos)
+
+- Check out my [portfolio](https://neal-powers.com)
 
 - ⚡ Fun fact **I'm a photographer and classically trained musician!**
 
