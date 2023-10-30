@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **#100Devs, React, Tailwind**
 
-- 📫 How to reach me **neal.grindstaff@gmail.com**
+- 📫 Reach me at **neal.grindstaff@gmail.com**
 
 - 📄 Learn about my experiences through my [resume](https://nealpowers-my.sharepoint.com/:b:/g/personal/nealpowers_neal-powers_com/EfhtygT0w7hJrG-rIEzPTrUBx-4hO8KP7zhlKCywWOkzAQ?e=dEEPos)
 
